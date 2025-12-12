@@ -1,0 +1,44 @@
+h1 {
+  background-color: saddlebrown; 
+  color: white;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+
+body {
+  background-color: #EDE8D0;
+  text-align: center; 
+  font-family: Verdana, Geneva, sans-serif; 
+
+}
+
+li {
+  color: saddlebrown;
+  margin-bottom: 15px;
+}
+
+img {
+  border-radius: 15px; 
+  margin: 10px 0; 
+  width: 300px; 
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+ul {
+  background-color: #FFF8DC; 
+  padding: 20px;
+  border-radius: 15px;
+  display: inline-block; 
+}
+
+h2 {
+  margin-top: 40px;
+  margin-bottom: 15px;
+  color: #8B4513; 
+}
+
+p {
+  margin-bottom: 15px;
+}
